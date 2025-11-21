@@ -35,8 +35,8 @@ Arduino
 ```
 7. Close Serial Monitor (if not closed, won't run)
 9. Then open powershell
-10. Change the file path to where you downloaded the zip and into the src file (where main.py lives), example below
-cd "C:\Users\aliso\Downloads\Test_1_Pump (1)\Test_1_Pump\src" 
+10. Change the file path to where you downloaded the zip and open UI+ Automation (where main.py lives), example below
+cd "C:\Users\aliso\Documents\Microfluidics\UI+automation" 
 12. Once inside the right file path, copy this whole block of code
 ```
 pip install PySide6 pyserial
